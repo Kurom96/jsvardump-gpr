@@ -1,4 +1,4 @@
-jsvardump
+jsvardump-gpr
 ====
 
 [![Circle CI](https://circleci.com/gh/KazuhikoKuroda/jsvardump.svg?style=svg)](https://circleci.com/gh/KazuhikoKuroda/jsvardump)
@@ -9,13 +9,13 @@ Output javascript object like PHP(var_dump) using console.log.
 ### Install
 
 ```sh
-$ npm install jsvardump
+$ npm install jsvardump-gpr
 ```
 
 ### Usage
 
 ```javascript
-var jvd = require('jsvardump');
+var jvd = require('jsvardump-gpr');
 
 var object = {
 	arr: [[1,11,111,{hoge:'aaa', fuga:'bbb'}], 'ccc', 'ddd'],
