@@ -39,5 +39,6 @@
   "bugs": {
     "url": "https://github.com/KazuhikoKuroda/jsvardump/issues"
   },
-  "homepage": "https://github.com/KazuhikoKuroda/jsvardump"
+  "homepage": "https://github.com/KazuhikoKuroda/jsvardump",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
