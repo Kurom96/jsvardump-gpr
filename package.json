@@ -34,11 +34,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://KazuhikoKuroda@github.com/KazuhikoKuroda/jsvardump.git"
+    "url": "https://KazuhikoKuroda@github.com/KazuhikoKuroda/jsvardump-gpr.git"
   },
   "bugs": {
     "url": "https://github.com/KazuhikoKuroda/jsvardump/issues"
   },
-  "homepage": "https://github.com/KazuhikoKuroda/jsvardump",
+  "homepage": "https://github.com/KazuhikoKuroda/jsvardump-gpr",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
